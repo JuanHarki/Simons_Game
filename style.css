@@ -1,0 +1,144 @@
+body {
+    background-color: rgb(255, 255, 255);
+}
+
+
+
+
+
+#score {
+    font-size: 2em;
+    font-weight: 600;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+
+}
+
+.page {
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 100%;
+}
+
+.casesetclassement {
+
+    width: 100%;
+    display: flex;
+    justify-content: center;
+
+}
+
+
+#classement {
+    font-size: 7vh;
+}
+
+#classements {
+    font-size: 7vh;
+}
+
+.cases {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    width: 100%;
+}
+
+
+
+.case {
+    width: 125px;
+    height: 125px;
+    border-radius: 10%;
+    margin: 10px;
+
+    border: 10px double rgb(0, 0, 0);
+
+
+
+}
+
+
+
+#vert {
+
+    background-color: rgb(18, 206, 18);
+
+}
+
+#vertfoncé {
+    background-color: rgb(7, 58, 7);
+
+}
+
+#rouge {
+    background-color: rgb(236, 46, 46);
+}
+
+#rougefoncé {
+    background-color: rgb(99, 20, 20);
+
+}
+
+#bleu {
+
+    background-color: rgb(88, 88, 237);
+}
+
+#bleufoncé {
+    background-color: rgb(27, 27, 72);
+}
+
+#jaune {
+    background-color: rgb(245, 245, 39);
+}
+
+#jaunefoncé {
+
+    background-color: rgb(93, 93, 17);
+}
+
+#orange {
+    background-color: rgb(255, 179, 36);
+}
+
+#orangefoncé {
+
+    background-color: rgb(105, 69, 2);
+}
+
+#rose {
+    background-color: rgb(220, 23, 197);
+}
+
+#rosefoncé {
+
+    background-color: rgb(103, 10, 81);
+}
+
+
+#start {
+
+    margin-top: 20px;
+    font-size: 2em;
+    font-weight: 7 00;
+    padding: 9px;
+    padding-left: 14px;
+    padding-right: 14px;
+    background-color: #b8a8a8;
+    border: 10px solid #ffffff;
+}
+
+
+
+
+
+
+#textdefin {
+    font-weight: 700;
+    font-size: 10vh;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
